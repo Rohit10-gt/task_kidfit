@@ -1,0 +1,62 @@
+{
+  "strength": {
+    "value": 80,
+    "percentage": 20
+  },
+  "stamina": {
+    "value": 40,
+    "percentage": -10
+  },
+  "level": {
+    "currentLevel": 1,
+    "currentXP": 1400,
+    "requiredXP": 2000,
+    "levelProgress": "L1/L7"
+  },
+  "chartData": {
+    "greenData": [
+      { "x": "1 April", "y": 70 },
+      { "x": "2 April", "y": 75 },
+      { "x": "3 April", "y": 65 },
+      { "x": "4 April", "y": 68 },
+      { "x": "5 April", "y": 60 },
+      { "x": "6 April", "y": 72 },
+      { "x": "7 April", "y": 80 },
+      { "x": "8 April", "y": 78 },
+      { "x": "9 April", "y": 88 },
+      { "x": "10 April", "y": 109 },
+      { "x": "11 April", "y": 95 },
+      { "x": "12 April", "y": 102 },
+      { "x": "13 April", "y": 85 },
+      { "x": "14 April", "y": 90 },
+      { "x": "15 April", "y": 70 },
+      { "x": "16 April", "y": 85 },
+      { "x": "17 April", "y": 92 },
+      { "x": "18 April", "y": 95 },
+      { "x": "19 April", "y": 98 },
+      { "x": "20 April", "y": 100 }
+    ],
+    "orangeData": [
+      { "x": "1 April", "y": 50 },
+      { "x": "2 April", "y": 60 },
+      { "x": "3 April", "y": 55 },
+      { "x": "4 April", "y": 65 },
+      { "x": "5 April", "y": 100 },
+      { "x": "6 April", "y": 90 },
+      { "x": "7 April", "y": 85 },
+      { "x": "8 April", "y": 70 },
+      { "x": "9 April", "y": 60 },
+      { "x": "10 April", "y": 40 },
+      { "x": "11 April", "y": 50 },
+      { "x": "12 April", "y": 55 },
+      { "x": "13 April", "y": 60 },
+      { "x": "14 April", "y": 70 },
+      { "x": "15 April", "y": 90 },
+      { "x": "16 April", "y": 95 },
+      { "x": "17 April", "y": 80 },
+      { "x": "18 April", "y": 85 },
+      { "x": "19 April", "y": 75 },
+      { "x": "20 April", "y": 80 }
+    ]
+  }
+}

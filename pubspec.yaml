@@ -1,0 +1,43 @@
+name: crxt_muse
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  lottie: ^3.1.2
+  animate_do: ^3.3.4
+  get: ^4.6.6
+  flutter_svg: ^2.0.10+1
+  syncfusion_flutter_charts: ^27.1.50
+  flutter_bloc: ^8.1.6
+  skeletonizer: ^1.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - assets/lottie/
+     - assets/images/
+     - assets/icons/
+     - assets/json/
+
+  fonts:
+    - family: Futura
+      fonts:
+        - asset: assets/fonts/futura.ttf
+    - family: Futura Bold
+      fonts:
+        - asset: assets/fonts/futura_bold.ttf
+
